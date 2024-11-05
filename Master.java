@@ -8,6 +8,8 @@ public class Master {
 
         System.out.println("Master one 提交..");
 
+        System.out.println("Master change");
+
         System.out.println("zyy 修改了文件.......");
     }
 }
